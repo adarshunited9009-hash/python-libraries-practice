@@ -1,37 +1,41 @@
 # Python Libraries Practice
 
-I'm a B.Tech AIML student learning Python and its libraries. This repository is where I keep the small programs I write while practising. I'll add more examples as I learn.
+I'm a B.Tech student studying Artificial Intelligence and Machine Learning. I use this repository to save the Python and library examples I write while learning.
 
-## What I'm working on
+The examples are kept small so I can practise each concept and understand what the code does.
+
+## Topics
 
 - Python basics
-- NumPy
-- Pandas (later)
-- Matplotlib (later)
-- Machine learning libraries (later)
+- NumPy arrays and array operations
+- More data libraries as I learn them
 
-## NumPy programs
+## NumPy examples
 
-The `numpy` folder currently has these programs:
+| File | What it covers |
+|---|---|
+| `01_array_creation.py` | Creating an array and performing a basic operation |
+| `02_array_dimensions.py` | Creating a 2D array and checking its dimensions |
+| `03_three_dimensional_array.py` | Creating a 3D array and checking its shape and dimensions |
+| `04_array_slicing.py` | Selecting rows, columns, and parts of an array |
+| `05_array_arithmetic.py` | Addition, multiplication, modulus, and subtraction on array elements |
 
-1. `01_array_creation.py` — create an array and multiply its values by 3.
-2. `02_array_dimensions.py` — create a 2D array and check its dimensions.
-3. `03_three_dimensional_array.py` — create a 3D array and check its dimensions and shape.
+## Run the examples
 
-## Run the programs
-
-Install Python 3, then install NumPy:
+Install Python 3 and NumPy:
 
 ```bash
 python -m pip install numpy
 ```
 
-Run a program from this repository's folder. For example:
+From the repository folder, run an example:
 
 ```bash
-python numpy/03_three_dimensional_array.py
+python numpy/05_array_arithmetic.py
 ```
 
 If your system uses `python3`, use that instead of `python`.
 
-This repo is still a work in progress. I'm keeping the examples small so I can understand them properly before moving on to harder topics.
+## Progress
+
+This repository is a work in progress. I'll add examples as I learn more, and update the explanations when needed. The aim is to understand the concepts, not just collect code.
