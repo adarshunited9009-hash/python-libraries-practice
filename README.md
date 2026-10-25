@@ -19,6 +19,7 @@ The examples are kept small so I can practise each concept and understand what t
 | `03_three_dimensional_array.py` | Creating a 3D array and checking its shape and dimensions |
 | `04_array_slicing.py` | Selecting rows, columns, and parts of an array |
 | `05_array_arithmetic.py` | Addition, multiplication, modulus, and subtraction on array elements |
+| `06_universal_functions.py` | Calculating square roots and using pi with array values |
 
 ## Run the examples
 
@@ -31,7 +32,7 @@ python -m pip install numpy
 From the repository folder, run an example:
 
 ```bash
-python numpy/05_array_arithmetic.py
+python numpy/06_universal_functions.py
 ```
 
 If your system uses `python3`, use that instead of `python`.
