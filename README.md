@@ -22,6 +22,7 @@ The examples are kept small so I can practise each concept and understand what t
 | `06_universal_functions.py` | Using NumPy functions such as square root and calculating with pi |
 | `07_broadcasting.py` | Performing operations between arrays with compatible shapes |
 | `08_aggregate_functions.py` | Calculating sum, mean, standard deviation, variance, minimum, maximum, and axis-wise sums |
+| `09_array_filtering.py` | Filtering array values with conditions, including even and odd numbers |
 
 ## Run the examples
 
