@@ -19,6 +19,9 @@ The examples are kept small so I can practise each concept and understand what t
 | `03_three_dimensional_array.py` | Creating a 3D array and checking its shape and dimensions |
 | `04_array_slicing.py` | Selecting rows, columns, and parts of an array |
 | `05_array_arithmetic.py` | Addition, multiplication, modulus, and subtraction on array elements |
+| `06_universal_functions.py` | Using NumPy functions such as square root and calculating with pi |
+| `07_broadcasting.py` | Performing operations between arrays with compatible shapes |
+| `08_aggregate_functions.py` | Calculating sum, mean, standard deviation, variance, minimum, maximum, and axis-wise sums |
 
 ## Run the examples
 
