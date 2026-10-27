@@ -25,6 +25,7 @@ The examples are kept small so I can practise each concept and understand what t
 | `09_array_filtering.py` | Filtering array values with conditions, including even and odd numbers |
 | `10_where_condition.py` | Using `np.where()` to replace values that do not meet a condition |
 | `11_random_choice.py` | Selecting a random item from an array with `rng.choice()` |
+| `12_replace_negative_values.py` | Using `np.where()` to replace negative values based on a condition |
 
 ## Run the examples
 
