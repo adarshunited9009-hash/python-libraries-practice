@@ -10,22 +10,23 @@ The examples are kept small so I can practise each concept and understand what t
 - NumPy arrays and array operations
 - More data libraries as I learn them
 
-## NumPy examples
+## NumPy practice
 
-| File | What it covers |
-|---|---|
-| `01_array_creation.py` | Creating an array and performing a basic operation |
-| `02_array_dimensions.py` | Creating a 2D array and checking its dimensions |
-| `03_three_dimensional_array.py` | Creating a 3D array and checking its shape and dimensions |
-| `04_array_slicing.py` | Selecting rows, columns, and parts of an array |
-| `05_array_arithmetic.py` | Addition, multiplication, modulus, and subtraction on array elements |
-| `06_universal_functions.py` | Using NumPy functions such as square root and calculating with pi |
-| `07_broadcasting.py` | Performing operations between arrays with compatible shapes |
-| `08_aggregate_functions.py` | Calculating sum, mean, standard deviation, variance, minimum, maximum, and axis-wise sums |
-| `09_array_filtering.py` | Filtering array values with conditions, including even and odd numbers |
-| `10_where_condition.py` | Using `np.where()` to replace values that do not meet a condition |
-| `11_random_choice.py` | Selecting a random item from an array with `rng.choice()` |
-| `12_replace_negative_values.py` | Using `np.where()` to replace negative values based on a condition |
+The `numpy` folder contains my practice programs on:
+
+- Creating 1D, 2D, and 3D arrays
+- Array dimensions, shape, size, and data types
+- Array arithmetic and universal functions
+- Broadcasting and slicing, including step slicing
+- Aggregate functions such as sum, mean, minimum, maximum, and standard deviation
+- Filtering values with conditions and using `np.where()`
+- Random selection, sorting, and unique values
+- Finding minimum, maximum, and second-largest elements
+- Working with rows, columns, and diagonal elements
+- Counting missing values
+- Analysing student marks using totals, averages, pass/fail conditions, and rankings
+
+There are also practice-question files that I use to test my understanding.
 
 ## Run the examples
 
